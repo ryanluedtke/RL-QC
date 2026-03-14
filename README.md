@@ -34,7 +34,7 @@ This project uses [uv](https://github.com/astral-sh/uv) for dependency managemen
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rylue/RL-QC.git
+   git clone https://github.com/ryanluedtke/RL-QC.git
    cd rl-qc
    ```
 
