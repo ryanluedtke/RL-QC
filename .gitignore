@@ -8,6 +8,3 @@ wheels/
 
 # Virtual environments
 .venv
-
-# Generated images
-mapping_visualizations/
