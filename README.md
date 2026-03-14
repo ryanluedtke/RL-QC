@@ -1,6 +1,10 @@
 # RL-QC: Reinforcement Learning for Adaptive Noise-Aware Quantum Compilation
 
-This project explores strategies for mapping logical qubits to physical qubits on noisy quantum devices. It evaluates the performance of various mapping algorithms under realistic noise models using Qiskit's fake provider backends.
+This project is the baseline for a future reinforcement learning pipeline for adaptive noise-aware quantum compilation.
+
+As an initial experiment, it explores strategies for mapping logical qubits to physical qubits on noisy quantum devices. It evaluates the performance of various mapping algorithms under realistic noise models using Qiskit's fake provider backends.
+
+This initial experiment serves as proof that different mapping strategies drastically alter performance. Additionally, the code used to simulate quantum compilations serves as a baseline for future RL adaptations, where an agent will make mapping decisions rather than heuristics and algorithms.
 
 ## Features
 
