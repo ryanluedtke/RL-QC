@@ -1,4 +1,4 @@
-# RL-QC: Quantum Circuit Mapping Experiments
+# RL-QC: Reinforcement Learning for Adaptive Noise-Aware Quantum Compilation
 
 This project explores strategies for mapping logical qubits to physical qubits on noisy quantum devices. It evaluates the performance of various mapping algorithms under realistic noise models using Qiskit's fake provider backends.
 
@@ -30,7 +30,7 @@ This project uses [uv](https://github.com/astral-sh/uv) for dependency managemen
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/rylue/RL-QC.git
    cd rl-qc
    ```
 
